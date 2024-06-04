@@ -1,4 +1,7 @@
-./data
-./ckpt
+/data
+/ckpt
+*.pt
 *.pkl
 *.pickle
+/logs/*
+*.pyc
